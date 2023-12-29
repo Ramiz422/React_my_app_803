@@ -1,10 +1,15 @@
 import React from 'react'
+import Herosection from './components/herosection'
+import Ourservices from './components/Ourservices'
+import './style.css'
+
 
 const HomePage = () => {
   return (
-    <div>HomePage
-    <h2>React batch 803</h2>
-    </div>
+    <>
+      <Herosection/>
+      <Ourservices/>
+    </>
   )
 }
 

@@ -266,7 +266,7 @@ border: none;
 }
 .banner-btn .btn2 {
     border-radius: 48px;
-background:whitesmoke;
+background:white;
 box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.20), 3px 4px 10px 0px rgba(0, 0, 0, 0.20) inset;
 color:black;
 text-align: center;
@@ -478,4 +478,24 @@ letter-spacing: -1.26px;
 }
 .banner-inner-section4 .banner-content4 i {
     padding-right: 30px;
+}
+
+/* our services banner */
+.global_banner {
+    color: #1E1E1E;
+font-family: Rubik;
+font-size: 52px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -1.8px;
+}
+.global_banner span {
+    color: #058B8C;
+font-family: Rubik;
+font-size: 52px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -1.8px;
 }
